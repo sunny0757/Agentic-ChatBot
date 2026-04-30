@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "d:\\Data Science\\Python\\AgenticAIProject\\.venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.venvPath": "d:\\Data Science\\Python\\AgenticAIProject",
+    "python.venvFolders": [".venv"],
+    "python.analysis.extraPaths": ["."]
+}

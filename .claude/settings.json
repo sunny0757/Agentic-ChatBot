@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Read(//c/Users/AKSHAY MODI/AppData/Roaming/uv/python/**)",
+      "Bash(\"d:/Data Science/Python/AgenticAIProject/.venv/Scripts/python.exe\" --version)",
+      "PowerShell(& \"d:\\\\Data Science\\\\Python\\\\AgenticAIProject\\\\.venv\\\\Scripts\\\\python.exe\" -m pip install -e \"d:\\\\Data Science\\\\Python\\\\AgenticAIProject\")"
+    ],
+    "additionalDirectories": [
+      "d:\\Data Science\\Python\\AgenticAIProject"
+    ]
+  }
+}
